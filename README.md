@@ -1,6 +1,6 @@
 # Project URLs
-GitHub Repo : [https://github.com/agoyal31/web322-agoyal31](https://github.com/agoyal31/Vacation_CheckList_App) 
-netlify URL :[ https://breakable-jade-lingerie.cyclic.app](https://calm-phoenix-bcb295.netlify.app)
+GitHub Repo : https://github.com/agoyal31/Vacation_CheckList_App 
+netlify URL : https://calm-phoenix-bcb295.netlify.app
 
 # Getting Started with Create React App
 
